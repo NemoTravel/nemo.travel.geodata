@@ -87,6 +87,9 @@
     "343":{"name":{"en":"Airbus A340"}},
     "345":{"name":{"en":"Airbus A340"}},
     "346":{"name":{"en":"Airbus A340"}},
+    "350":{"name":{"en":"Airbus A350"}},
+    "358":{"name":{"en":"Airbus A350-800"}},
+    "359":{"name":{"en":"Airbus A350-900"}},
     "380":{"name":{"en":"Airbus 380"}},
     "388":{"name":{"en":"Airbus A380"}},
     "703":{"name":{"en":"Boeing 703"}},
@@ -116,5 +119,7 @@
     "767":{"name":{"en":"Boeing 767"}},
     "772":{"name":{"en":"Boeing 772"}},
     "773":{"name":{"en":"Boeing 777-300"}},
-    "777":{"name":{"en":"Boeing 777"}}
+    "777":{"name":{"en":"Boeing 777"}},
+    "788":{"name":{"en":"Boeing 787-8 Dreamliner"}},
+    "789":{"name":{"en":"Boeing 787-9 Dreamliner"}}
 }
