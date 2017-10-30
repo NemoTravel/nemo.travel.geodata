@@ -1,4 +1,4 @@
-# nemo.travel.guide
+# nemo.travel.geodata
 
 В репозитории содержится справочная информация о
 
