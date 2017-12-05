@@ -479,6 +479,7 @@
     "MZ":{"name":{"ru":"Merpati Nusantara","en":"Merpati Nusantara"},"country":"ID","logo":{"file":"3082-f1b6a2db85a1b670370ff44b0fdace95.jpg","width":"220","height":"40"}},
     "N2":{"name":{"ru":"Dagestan Air","en":"Dagestan Air"},"country":"RU","logo":{"file":"2658-141fc2a02011a22375c752eae712878e.jpg","width":"250","height":"117"}},
     "N4":{"name":{"ru":"Nordwind","en":"Nordwind"},"country":"RU","logo":{"file":"5678-33cd1e0a48ff4b3c4d078ebdd50d5f6c.png","width":"178","height":"80"}},
+    "N7":{"name":{"ru":"Nordic Regional Airlines","en":"Nordic Regional Airlines"},"country":"FI","logo":{"file":"5689-b3ea9cca2f16c4153963c5233eef59e3.png","width":"639","height":"287"}},
     "NA":{"name":{"ru":"North American Airlines","en":"North American Airlines"},"country":"US","logo":{"file":"3196-cee0615fc091d56ed76605f8aa5bb94b.jpg","width":"269","height":"39"}},
     "NB":{"name":{"ru":"Skypower Express Airways","en":"Skypower Express Airways"},"country":"NG","logo":null},
     "NC":{"name":{"ru":"National Jet Systems","en":"National Jet Systems"},"country":"AU","logo":null},
