@@ -6753,7 +6753,6 @@
     "RVC":{"cityName":{"ru":"Риверсесс","en":"Rivercess"},"area":null,"country":"LR","timezone":"Africa/Monrovia"},
     "RVD":{"cityName":{"ru":"Рио-Верде","en":"Rio Verde"},"area":null,"country":"BR","lat":-17.83472,"lng":-50.95611,"timezone":"America/Sao_Paulo"},
     "RVE":{"cityName":{"ru":"Саравена","en":"Saravena"},"area":null,"country":"CO","lat":6.95472,"lng":-71.85806,"timezone":"America/Bogota"},
-    "RVI":{"cityName":{"ru":"Ростов-на-Дону","en":"Rostov"},"area":null,"country":"RU","lat":47.25821,"lng":39.81809,"timezone":"Europe/Moscow"},
     "RVK":{"cityName":{"ru":"Роервик","en":"Roervik"},"area":null,"country":"NO","lat":64.83333,"lng":11.15,"timezone":"Europe/Oslo"},
     "RVN":{"cityName":{"ru":"Рованиеми","en":"Rovaniemi"},"area":null,"country":"FI","lat":66.56482,"lng":25.83041,"timezone":"Europe/Helsinki"},
     "RVO":{"cityName":{"ru":"Реивило","en":"Reivilo"},"area":null,"country":"ZA","timezone":"Africa/Johannesburg"},

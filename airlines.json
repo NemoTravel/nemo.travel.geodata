@@ -733,6 +733,7 @@
     "WA":{"name":{"ru":"KLM cityhopper","en":"KLM cityhopper"},"country":"NL","logo":{"file":"2867-4ad3546d70426cc77306fceec5df5a16.jpg","width":"230","height":"42"}},
     "WB":{"name":{"ru":"Rwandair Express","en":"Rwandair Express"},"country":"RW","logo":{"file":"3421-7c06e8adbd82069bc745bd84a502b4bc.jpg","width":"229","height":"38"}},
     "WC":{"name":{"ru":"Islena Airlines","en":"Islena Airlines"},"country":"HN","logo":{"file":"3240-5c67ee7e9425b9d9546830fd73e4eae5.jpg","width":"186","height":"94"}},
+    "WE":{"name":{"ru":"Thai Smile","en":"Thai Smile"},"country":"TH","logo":{"file":"5690-4d44b19f8ffdc438a0cd24380d8140ea.png","width":"97","height":"49"}},
     "WF":{"name":{"ru":"Wideroes Flyveselskap","en":"Wideroes Flyveselskap"},"country":"NO","logo":null},
     "WG":{"name":{"ru":"Sunwing Airlines","en":"Sunwing Airlines"},"country":"CA","logo":{"file":"5067-4d1ef198b6cec25b489c53be2cc6b891.jpg","width":"120","height":"63"}},
     "WH":{"name":{"ru":"Webjet Linhas Aereas","en":"Webjet Linhas Aereas"},"country":"BR","logo":null},
