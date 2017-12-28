@@ -1850,6 +1850,7 @@
     "DSK":{"cityName":{"ru":"Дера Исмаил-Хан","en":"Dera Ismail Khan"},"area":null,"country":"PK","lat":31.90942,"lng":70.89664,"timezone":"Asia/Karachi"},
     "DSM":{"cityName":{"ru":"Де-Моинес","en":"Des Moines"},"area":null,"country":"US","lat":41.53934,"lng":-93.6586,"timezone":"America/Chicago"},
     "DSN":{"cityName":{"ru":"Аэропорт Ордос Эджен-Хоро","en":"Ordos Ejin Horo Airport"},"area":null,"country":"CN","lat":39.49387,"lng":109.86174,"timezone":"Asia/Shanghai"},
+    "DSS":{"cityName":{"ru":"Дакар","en":"Dakar"},"airportName":{"ru":"Блез Диань","en":"Blaise Diagne"},"area":null,"country":"SN","lat":14.67111,"lng":-17.06694,"timezone":"Africa/Dakar"},
     "DSV":{"cityName":{"ru":"Dansville Municipal Airport","en":"Dansville Municipal Airport"},"area":null,"country":"US","lat":42.5709,"lng":-77.7125,"timezone":"America/New_York"},
     "DTA":{"cityName":{"ru":"Delta Municipal Airport","en":"Delta Municipal Airport"},"area":null,"country":"US","lat":39.38688,"lng":-112.5022,"timezone":"America/Denver"},
     "DTB":{"cityName":{"ru":"Силангит","en":"Silangit"},"area":null,"country":"ID","lat":2.25899,"lng":98.99351,"timezone":"Asia/Jakarta"},
