@@ -835,6 +835,7 @@
     "ZW":{"name":{"ru":"Air Wisconsin","en":"Air Wisconsin"},"country":"US","logo":{"file":"3154-44a680a3eaeddc1cc99d96a3c737875b.jpg","width":"233","height":"30"}},
     "ZX":{"name":{"ru":"Air Georgian","en":"Air Georgian"},"country":"CA","logo":null},
     "ZY":{"name":{"ru":"Eznis Airways","en":"Eznis Airways"},"country":"MN","logo":{"file":"3017-7dfd10ee7a5ad174419ab16633aed473.jpg","width":"180","height":"247"}},
+    "АЯ":{"name":{"ru":"Авиакомпания Аэросервис","en":"Aeroservice"},"country":"RU","logo":{"file":"5590-4774ae77dfd5b962f9429159c84a07ce.svg","width":"0","height":"0"}},
     "БА":{"name":{"ru":"Авиакомпания Былина","en":"Aviakomapania Bylina"},"country":"RU","logo":null},
     "БЮ":{"name":{"ru":"Бурятские авиалинии","en":"Buryat airlines"},"country":"RU","logo":{"file":"5582-7ca3e78cd270e1036f0e27845d2ca192.jpg","width":"150","height":"124"}},
     "ВГ":{"name":{"ru":"Вологодское авиационное предприятие","en":"Vologda Air Enterprise"},"country":"RU","logo":{"file":"5567-8cc164010fae10dedf99c582a7011d73.jpg","width":"259","height":"74"}},
@@ -855,7 +856,6 @@
     "УЭ":{"name":{"ru":"ГУП МА Оренбург","en":"GUP MA Orenburg"},"country":"RU","logo":null},
     "ФЖ":{"name":{"ru":"Скай Бишкек","en":"Sky Bishkek"},"country":"KG","logo":null},
     "ФР":{"name":{"ru":"Центр-Юг","en":"Center-Yug"},"country":"RU","logo":null},
-    "ЮГ":{"name":{"ru":"Авиакомпания Аэросервис","en":"Aeroservice"},"country":"RU","logo":{"file":"5590-4774ae77dfd5b962f9429159c84a07ce.svg","width":"0","height":"0"}},
     "ЯП":{"name":{"ru":"Полярные авиалинии","en":"Polar Airlines"},"country":"RU","logo":null},
     "44":{"name":{"ru":"BlekingeFlyg","en":"BlekingeFlyg"},"country":"SE","logo":{"file":"5076-115e9fa0ef4f6fc480d264996dc443a1.jpg","width":"120","height":"14"}}
 }

@@ -1771,7 +1771,7 @@
     "DLY":{"cityName":{"ru":"Диллонс-Бэй","en":"Dillons Bay"},"area":null,"country":"VU","lat":-18.7694,"lng":169.00101,"timezone":"Pacific/Efate"},
     "DLZ":{"cityName":{"ru":"Даланзадгад","en":"Dalanzadgad"},"area":null,"country":"MN","lat":43.60886,"lng":104.3672,"timezone":"Asia/Ulaanbaatar"},
     "DMA":{"cityName":{"ru":"Allied Airstrip","en":"Allied Airstrip"},"area":null,"country":"US","lat":32.1473,"lng":-110.85259,"timezone":"America/Phoenix"},
-    "DMB":{"cityName":{"ru":"Тараз","en":"Dzhambyl"},"area":null,"country":"KZ","lat":42.8536,"lng":71.3036,"timezone":"Asia/Almaty"},
+    "DMB":{"cityName":{"ru":"Тараз","en":"Taraz"},"area":null,"country":"KZ","lat":42.8536,"lng":71.3036,"timezone":"Asia/Almaty"},
     "DMD":{"cityName":{"ru":"Думадги","en":"Doomadgee"},"area":null,"country":"AU","lat":-17.9403,"lng":138.82201,"timezone":"Australia/Brisbane"},
     "DME":{"cityName":{"ru":"Москва","en":"Moscow"},"airportName":{"ru":"Домодедово","en":"Domodedovo"},"area":"MOW","country":"RU","lat":55.4145,"lng":37.8999,"timezone":"Europe/Moscow"},
     "DMK":{"cityName":{"ru":"Бангкок","en":"Bangkok"},"airportName":{"ru":"Дон Мыанг","en":"Don Mueang"},"area":null,"country":"TH","lat":13.91258,"lng":100.60675,"timezone":"Asia/Bangkok"},
