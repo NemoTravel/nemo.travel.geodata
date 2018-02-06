@@ -9269,6 +9269,7 @@
     "УХЙ":{"cityName":{"ru":"Усть-Хайрюзово","en":"Ust-Khayryuzovo"},"area":null,"country":"RU","timezone":"Asia/Anadyr"},
     "ХРП":{"cityName":{"ru":"Херпучи","en":"Kherpuchi"},"area":null,"country":"RU","timezone":"Asia/Srednekolymsk"},
     "ЧАР":{"cityName":{"ru":"Чара","en":"Chara"},"area":null,"country":"RU","timezone":"Asia/Irkutsk"},
+    "ЧГД":{"cityName":{"ru":"Чегдомын","en":"Chegdomyn"},"area":null,"country":"RU","lat":51.13716,"lng":132.93891,"timezone":"Asia/Vladivostok"},
     "ЧЕМ":{"cityName":{"ru":"Чемдальск","en":"Chemdalsk"},"area":null,"country":"RU","lat":59.624315,"lng":103.31697,"timezone":"Asia/Krasnoyarsk"},
     "ЧМИ":{"cityName":{"ru":"Чумикан","en":"Chumikan"},"area":null,"country":"RU","timezone":"Asia/Vladivostok"},
     "ШОН":{"cityName":{"ru":"Шойна","en":"Shoyna"},"area":null,"country":"RU","timezone":"Europe/Moscow"},
