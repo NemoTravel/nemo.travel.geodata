@@ -545,6 +545,7 @@
     "OV":{"name":{"ru":"Estonian Air","en":"Estonian Air"},"country":"EE","logo":{"file":"2751-cdffbc1304613881197e5509c84651db.jpg","width":"140","height":"55"}},
     "OW":{"name":{"ru":"Executive Airlines","en":"Executive Airlines"},"country":"US","logo":null},
     "OX":{"name":{"ru":"Orient Thai Airlines","en":"Orient Thai Airlines"},"country":"TH","logo":{"file":"5130-0bb4af808a18623d2a4090df016194b6.png","width":"130","height":"30"}},
+    "OY":{"name":{"ru":"Andes Lineas Aereas","en":"Andes Lineas Aereas"},"country":"AR","logo":{"file":"5748-9995400678f02fcf0f36c6728723f1c5.png","width":"250","height":"197"}},
     "OZ":{"name":{"ru":"Asiana Airlines","en":"Asiana Airlines"},"country":"KR","logo":{"file":"5666-9579edf06944409efd6360ceb97c5e4b.gif","width":"754","height":"216"}},
     "P0":{"name":{"ru":"Proflight Zambia","en":"Proflight Zambia"},"country":"ZM","logo":{"file":"3520-325a64fac7e1919a0e545a66cd27cad1.jpg","width":"339","height":"101"}},
     "P4":{"name":{"ru":"Aerolineas Sosa","en":"Aerolineas Sosa"},"country":"HN","logo":null},

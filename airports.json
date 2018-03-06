@@ -3395,7 +3395,7 @@
     "JJN":{"cityName":{"ru":"Джинджианг","en":"Jinjiang"},"area":null,"country":"CN","lat":24.79894,"lng":118.5897,"timezone":"Asia/Shanghai"},
     "JJU":{"cityName":{"ru":"Julianehaab","en":"Julianehaab"},"area":null,"country":"GL","lat":60.71667,"lng":-46.05,"timezone":"America/Godthab"},
     "JKG":{"cityName":{"ru":"Джонкопинг","en":"Jonkoping"},"airportName":{"ru":"Аксамо","en":"Axamo"},"area":null,"country":"SE","lat":57.75759,"lng":14.06873,"timezone":"Europe/Stockholm"},
-    "JKH":{"cityName":{"ru":"Чиос","en":"Chios"},"area":null,"country":"GR","lat":38.34318,"lng":26.14057,"timezone":"Europe/Athens"},
+    "JKH":{"cityName":{"ru":"Хиос","en":"Chios"},"area":null,"country":"GR","lat":38.34318,"lng":26.14057,"timezone":"Europe/Athens"},
     "JKL":{"cityName":{"ru":"Kalymnos Island National Airport","en":"Kalymnos Island National Airport"},"area":null,"country":"GR","lat":36.96327,"lng":26.94058,"timezone":"Europe/Athens"},
     "JKR":{"cityName":{"ru":"Джанакпур","en":"Janakpur"},"area":null,"country":"NP","lat":26.7088,"lng":85.9224,"timezone":"Asia/Kathmandu"},
     "JKV":{"cityName":{"ru":"Cherokee County Airport","en":"Cherokee County Airport"},"area":null,"country":"US","lat":31.87077,"lng":-95.21724,"timezone":"America/Chicago"},
