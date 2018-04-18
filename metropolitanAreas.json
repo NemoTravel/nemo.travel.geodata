@@ -10,6 +10,7 @@
     "CAS":{"name":{"ru":"Касабланка","en":"Casablanca"},"country":"MA"},
     "CHI":{"name":{"ru":"Чикаго","en":"Chicago"},"country":"US"},
     "DFW":{"name":{"ru":"Даллас","en":"Dallas"},"country":"US"},
+    "DKR":{"name":{"ru":"Дакар","en":"Dakar"},"country":"SN"},
     "DTT":{"name":{"ru":"Детройт","en":"Detroit"},"country":"US"},
     "IEV":{"name":{"ru":"Киев","en":"Kiev"},"country":"UA"},
     "IST":{"name":{"ru":"Стамбул","en":"Istanbul"},"country":"TR"},
