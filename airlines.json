@@ -377,7 +377,7 @@
     "ID":{"name":{"ru":"Batik Air","en":"Batik Air"},"country":"ID","logo":{"file":"5752-3aec5f15ae5229b8c00c74141caacc21.png","width":"249","height":"79"}},
     "IE":{"name":{"ru":"Solomon Airlines","en":"Solomon Airlines"},"country":"SB","logo":{"file":"3468-a844231a8be3e4d580626ddd9eea7813.jpg","width":"130","height":"74"}},
     "IF":{"name":{"ru":"Islas Airways","en":"Islas Airways"},"country":"ES","logo":{"file":"2875-4854500e191d03fe206784b15121bc8a.jpg","width":"143","height":"29"}},
-    "IG":{"name":{"ru":"Air Italy","en":"Air Italy"},"country":"IT","logo":{"file":"4667-99e77869a19199f2092673d3d2e58cc7.gif","width":"120","height":"18"}},
+    "IG":{"name":{"ru":"Air Italy","en":"Air Italy"},"country":"IT","logo":{"file":"5793-bafd2dfc2e8810764c2791cb786692d6.svg","width":"0","height":"0"}},
     "IH":{"name":{"ru":"Irtysh-Air","en":"Irtysh-Air"},"country":"KZ","logo":null},
     "II":{"name":{"ru":"Inter Island Airways","en":"Inter Island Airways"},"country":"WS","logo":{"file":"3465-46ecd9031f3d35bf8d6c66bb9d415ae4.jpg","width":"280","height":"50"}},
     "IJ":{"name":{"ru":"Spring Airlines Japan","en":"Spring Airlines Japan"},"country":"JP","logo":{"file":"5762-59ebea7fdce273af713695d447445f3f.png","width":"160","height":"56"}},
