@@ -3998,7 +3998,7 @@
     "KZI":{"cityName":{"ru":"Козани","en":"Kozani"},"airportName":{"ru":"Филиппос","en":"Philippos"},"area":null,"country":"GR","lat":40.28611,"lng":21.84083,"timezone":"Europe/Athens"},
     "KZK":{"cityName":{"ru":"Компонг- Том","en":"Kompong -Thom"},"area":null,"country":"KH","timezone":"Asia/Phnom_Penh"},
     "KZN":{"cityName":{"ru":"Казань","en":"Kazan"},"area":null,"country":"RU","lat":55.60619,"lng":49.27873,"timezone":"Europe/Moscow"},
-    "KZO":{"cityName":{"ru":"Кзыл-Орда","en":"Kzyl-Orda"},"area":null,"country":"KZ","lat":44.70923,"lng":65.59052,"timezone":"Asia/Qyzylorda"},
+    "KZO":{"cityName":{"ru":"Кызыл-Орда","en":"Kzyl-Orda"},"area":null,"country":"KZ","lat":44.70923,"lng":65.59052,"timezone":"Asia/Qyzylorda"},
     "KZR":{"cityName":{"ru":"Кютахья","en":"Kutahya"},"airportName":{"ru":"Зафер","en":"Zafer Airport"},"area":null,"country":"TR","lat":39.11042,"lng":30.13215,"timezone":"Europe/Istanbul"},
     "KZS":{"cityName":{"ru":"Кастелоризо","en":"Kastelorizo"},"area":null,"country":"GR","lat":36.1417,"lng":29.5764,"timezone":"Europe/Athens"},
     "LAA":{"cityName":{"ru":"Ламар","en":"Lamar"},"area":null,"country":"US","lat":38.06973,"lng":-102.68881,"timezone":"America/Denver"},
