@@ -3522,7 +3522,7 @@
     "KBM":{"cityName":{"ru":"Кабвум","en":"Kabwum"},"area":null,"country":"PG","lat":-6.13936,"lng":147.27842,"timezone":"Pacific/Port_Moresby"},
     "KBN":{"cityName":{"ru":"Кабинда","en":"Kabinda"},"area":null,"country":"CD","lat":-6.12191,"lng":24.54105,"timezone":"Africa/Lubumbashi"},
     "KBO":{"cityName":{"ru":"Кабало","en":"Kabalo"},"area":null,"country":"CD","lat":-6.083,"lng":26.917,"timezone":"Africa/Lubumbashi"},
-    "KBP":{"cityName":{"ru":"Киев","en":"Kiev"},"airportName":{"ru":"Борисполь","en":"Borispol"},"area":null,"country":"UA","lat":50.345,"lng":30.89472,"timezone":"Europe/Kiev"},
+    "KBP":{"cityName":{"ru":"Киев","en":"Kiev"},"airportName":{"ru":"Борисполь","en":"Borispol"},"area":"IEV","country":"UA","lat":50.345,"lng":30.89472,"timezone":"Europe/Kiev"},
     "KBQ":{"cityName":{"ru":"Касунгу","en":"Kasungu"},"area":null,"country":"MW","lat":-13.0146,"lng":33.4686,"timezone":"Africa/Blantyre"},
     "KBR":{"cityName":{"ru":"Кота-Бару","en":"Kota Bharu"},"airportName":{"ru":"Пенгкалан-Чепа","en":"Pengkalan Chepa"},"area":null,"country":"MY","lat":6.16685,"lng":102.29301,"timezone":"Asia/Kuala_Lumpur"},
     "KBS":{"cityName":{"ru":"Бо","en":"Bo"},"area":null,"country":"SL","lat":7.9444,"lng":-11.761,"timezone":"Africa/Freetown"},
