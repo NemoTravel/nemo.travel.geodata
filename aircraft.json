@@ -31,6 +31,7 @@
     "DC3":{"name":{"en":"Douglas DC-3"}},
     "DC8":{"name":{"en":"Douglas DC-8"}},
     "DC9":{"name":{"en":"DC-9"}},
+    "DH3":{"name":{"en":"De Havilland DHC-8-300 Dash"}},
     "DH4":{"name":{"en":"DHC"}},
     "DH8":{"name":{"en":"DHC-8"}},
     "DHT":{"name":{"en":"DHC-6"}},
