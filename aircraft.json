@@ -10,6 +10,8 @@
     "32B":{"name":{"en":"Airbus A321 (with Sharklets)"}},
     "32C":{"name":{"en":"Airbus A318 (sharklets)"}},
     "32D":{"name":{"en":"Airbus A319 (sharklets)"}},
+    "32N":{"name":{"en":"Airbus A320neo"}},
+    "32Q":{"name":{"en":"Airbus A321neo"}},
     "32S":{"name":{"en":"Airbus 319"}},
     "33F":{"name":{"en":"Airbus A330 Freighter"}},
     "33X":{"name":{"en":"Airbus A330-200 Freighter"}},
