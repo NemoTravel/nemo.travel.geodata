@@ -5995,7 +5995,7 @@
     "PMC":{"cityName":{"ru":"Пуэрто-Монтт","en":"Puerto Montt"},"airportName":{"ru":"Тепуал","en":"Tepual"},"area":null,"country":"CL","lat":-41.43889,"lng":-73.09395,"timezone":"America/Santiago"},
     "PMD":{"cityName":{"ru":"Palmdale United States Air Force Plant 42 Airport","en":"Palmdale United States Air Force Plant 42 Airport"},"area":null,"country":"US","lat":34.62282,"lng":-118.09155,"timezone":"America/Los_Angeles"},
     "PME":{"cityName":{"ru":"Портсмут","en":"Portsmouth"},"area":null,"country":"GB","timezone":"Europe/London"},
-    "PMF":{"cityName":{"ru":"Парма","en":"Parma"},"airportName":{"ru":"Милан","en":"Milan"},"area":"MIL","country":"IT","lat":44.82448,"lng":10.29637,"timezone":"Europe/Rome"},
+    "PMF":{"cityName":{"ru":"Милан","en":"Milan"},"airportName":{"ru":"Парма","en":"Parma"},"area":"MIL","country":"IT","lat":44.82448,"lng":10.29637,"timezone":"Europe/Rome"},
     "PMG":{"cityName":{"ru":"Понта-Пора Интернэшинл","en":"Ponta Pora International"},"area":null,"country":"BR","lat":-22.54964,"lng":-55.70261,"timezone":"America/Campo_Grande"},
     "PMH":{"cityName":{"ru":"Портсмут","en":"Portsmouth Regional"},"area":null,"country":"US","lat":38.84011,"lng":-82.85005,"timezone":"America/New_York"},
     "PMI":{"cityName":{"ru":"Пальма-де-Майорка","en":"Palma-de-Mallorca"},"area":null,"country":"ES","lat":39.55,"lng":2.73333,"timezone":"Europe/Madrid"},
