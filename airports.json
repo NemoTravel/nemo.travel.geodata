@@ -8594,6 +8594,7 @@
     "XDE":{"cityName":{"ru":"Diebougou Airport","en":"Diebougou Airport"},"area":null,"country":"BF","lat":10.95,"lng":-3.25,"timezone":"Africa/Ouagadougou"},
     "XDJ":{"cityName":{"ru":"Djibo Airport","en":"Djibo Airport"},"area":null,"country":"BF","lat":14.12526,"lng":-1.6249,"timezone":"Africa/Ouagadougou"},
     "XEN":{"cityName":{"ru":"Xingcheng","en":"Xingcheng"},"area":null,"country":"CN","lat":40.73,"lng":118.6,"timezone":"Asia/Shanghai"},
+    "XER":{"cityName":{"ru":"Страсбург","en":"Strasbourg"},"airportName":{"ru":"Автовокзал","en":"Bus station"},"area":null,"country":"FR","lat":48.57451,"lng":7.75431,"timezone":"Europe/Paris"},
     "XES":{"cityName":{"ru":"Гранд-Дженива Резорт","en":"Grand Geneva Resort"},"area":null,"country":"US","lat":42.61247,"lng":-88.39514,"timezone":"America/Chicago"},
     "XFN":{"cityName":{"ru":"Йянгфан","en":"Xiangfan"},"area":null,"country":"CN","lat":32.1506,"lng":112.291,"timezone":"Asia/Shanghai"},
     "XFW":{"cityName":{"ru":"Гамбург-Финкенвердер","en":"Hamburg-Finkenwerder"},"area":null,"country":"DE","lat":53.53589,"lng":9.83703,"timezone":"Europe/Berlin"},
