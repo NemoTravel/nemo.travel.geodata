@@ -9243,6 +9243,7 @@
     "ВТЛ":{"cityName":{"ru":"Вуктыл","en":"Vuktyl"},"area":null,"country":"RU","timezone":"Europe/Moscow"},
     "ВЩГ":{"cityName":{"ru":"Верещагино","en":"Vereshchagino"},"area":null,"country":"RU","timezone":"Asia/Yekaterinburg"},
     "ГГА":{"cityName":{"ru":"Гагра","en":"Gagra"},"airportName":{"ru":"Автовокзал","en":"Bus station"},"area":null,"country":"GE","lat":43.26222,"lng":40.28389,"timezone":"Asia/Tbilisi"},
+    "ГЗВ":{"cityName":{"ru":"Газимурский Завод","en":"Gazimurskiy Zavod"},"area":null,"country":"RU","lat":51.54636,"lng":118.37401,"timezone":"Asia/Yakutsk"},
     "ГУД":{"cityName":{"ru":"Гудаута","en":"Gudauta"},"airportName":{"ru":"Автовокзал","en":"Bus station"},"area":null,"country":"GE","lat":43.10707,"lng":40.61581,"timezone":"Asia/Tbilisi"},
     "ГЬК":{"cityName":{"ru":"Краснокаменка","en":"Krasnokamenka"},"airportName":{"ru":"Автовокзал","en":"Bus station"},"area":null,"country":"RU","timezone":"Europe/Simferopol"},
     "ДЖБ":{"cityName":{"ru":"Джалал-Абад","en":"Jalal-Abad"},"area":null,"country":"KG","lat":40.94412,"lng":72.97716,"timezone":"Asia/Bishkek"},
