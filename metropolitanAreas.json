@@ -3,6 +3,7 @@
     "BAK":{"name":{"ru":"Баку","en":"Baku"},"country":"AZ"},
     "BEG":{"name":{"ru":"Белград","en":"Belgrade"},"country":"RS"},
     "BER":{"name":{"ru":"Берлин","en":"Berlin"},"country":"DE"},
+    "BFS":{"name":{"ru":"Белфаст","en":"Belfast"},"country":"GB"},
     "BHZ":{"name":{"ru":"Белу-Оризонте","en":"Belo Horizonte"},"country":"BR"},
     "BJS":{"name":{"ru":"Пекин","en":"Beijing"},"country":"CN"},
     "BUE":{"name":{"ru":"Буэнос-Айрес","en":"Buenos Aires"},"country":"AR"},
