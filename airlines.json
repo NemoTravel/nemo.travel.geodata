@@ -350,6 +350,7 @@
     "H9":{"name":{"ru":"Himalaya Airlines","en":"Himalaya Airlines"},"country":"NP","logo":{"file":"5660-a5e71d28541ac08d03a53992ceb38049.png","width":"271","height":"59"}},
     "HA":{"name":{"ru":"Hawaiian Airlines","en":"Hawaiian Airlines"},"country":"US","logo":{"file":"2845-65c8167d9774482f162415b667e5c494.gif","width":"202","height":"61"}},
     "HB":{"name":{"ru":"Asia Atlantic Airlines","en":"Asia Atlantic Airlines"},"country":"TH","logo":{"file":"5730-81e2e2c07f85ecb51eb1a0faee38b76a.png","width":"298","height":"61"}},
+    "HC":{"name":{"ru":"Air Senegal","en":"Air Senegal"},"country":"SN","logo":{"file":"5859-f8f9be5bcfe273c29c64e1c7e3c873b4.png","width":"237","height":"38"}},
     "HD":{"name":{"ru":"Air Do","en":"Air Do"},"country":"JP","logo":{"file":"2972-d01cdb759929d16652dfad36a5f11a28.jpg","width":"160","height":"47"}},
     "HE":{"name":{"ru":"LGW Luftfahrtgesellschaft Walter","en":"LGW Luftfahrtgesellschaft Walter"},"country":"DE","logo":{"file":"2770-d5402f7697c5c6e44a548984373f9d5a.jpg","width":"150","height":"50"}},
     "HF":{"name":{"ru":"Hapag Lloyd","en":"Hapag Lloyd"},"country":"DE","logo":{"file":"2834-c09f6398e2a37b70e9de9335b8cda5f5.gif","width":"200","height":"200"}},
