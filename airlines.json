@@ -884,6 +884,7 @@
     "УЭ":{"name":{"ru":"ГУП МА Оренбург","en":"GUP MA Orenburg"},"country":"RU","logo":null},
     "ФЖ":{"name":{"ru":"Скай Бишкек","en":"Sky Bishkek"},"country":"KG","logo":null},
     "ФР":{"name":{"ru":"Центр-Юг","en":"Center-Yug"},"country":"RU","logo":null},
+    "Э4":{"name":{"ru":"Fly&Bus","en":"Fly&Bus"},"country":"RU","logo":{"file":"5874-aa62036df0ea0257430f2875eda9f25f.svg","width":"0","height":"0"}},
     "ЭК":{"name":{"ru":"КрасАвиа","en":"KrasAvia"},"country":"RU","logo":{"file":"5589-10da7a967ed4b9fd8fd8451eeb116697.svg","width":"0","height":"0"}},
     "ЯП":{"name":{"ru":"Полярные авиалинии","en":"Polar Airlines"},"country":"RU","logo":null},
     "44":{"name":{"ru":"BlekingeFlyg","en":"BlekingeFlyg"},"country":"SE","logo":{"file":"5076-115e9fa0ef4f6fc480d264996dc443a1.jpg","width":"120","height":"14"}}
