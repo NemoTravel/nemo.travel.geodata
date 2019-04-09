@@ -876,7 +876,7 @@
     "ПМ":{"name":{"ru":"Авиалинии Мордовии","en":"Mordovia Airlines"},"country":"RU","logo":null},
     "ПП":{"name":{"ru":"ЮТэйр-Карго","en":"UTair-Cargo"},"country":"RU","logo":null},
     "СД":{"name":{"ru":"СКОЛ","en":"Skol"},"country":"RU","logo":null},
-    "СЛ":{"name":{"ru":"СиЛА","en":"Sila Avia"},"country":"RU","logo":null},
+    "СЛ":{"name":{"ru":"СиЛА","en":"Sila Avia"},"country":"RU","logo":{"file":"5875-161dc2f1be93542d1049808245dc8a9a.png","width":"155","height":"85"}},
     "СП":{"name":{"ru":"Томск Авиа","en":"Tomsk Avia"},"country":"RU","logo":null},
     "ТШ":{"name":{"ru":"Авиакомпания Тулпар","en":"Tulpar"},"country":"RU","logo":null},
     "ТЫ":{"name":{"ru":"Tulpar Air","en":"Tulpar Air"},"country":"KZ","logo":null},
