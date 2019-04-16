@@ -690,7 +690,7 @@
     "TG":{"name":{"ru":"Thai","en":"Thai"},"country":"TH","logo":{"file":"3614-534fc6047f9e29104fd0c9acec518449.png","width":"130","height":"30"}},
     "TI":{"name":{"ru":"Trans Island Air 2000","en":"Trans Island Air 2000"},"country":"BB","logo":null},
     "TJ":{"name":{"ru":"Трейдвинд Авиа","en":"Tradewind Avia"},"country":"RU","logo":{"file":"3531-7c49dfb2ca741f97ecb5d95babcd9169.jpg","width":"122","height":"78"}},
-    "TK":{"name":{"ru":"Turkish Airlines","en":"Turkish Airlines"},"country":"TR","logo":{"file":"5673-042c8754734a46047ffdcb904f2f540c.svg","width":"0","height":"0"}},
+    "TK":{"name":{"ru":"Turkish Airlines","en":"Turkish Airlines"},"country":"TR","logo":{"file":"5878-42cf024101daefbfb7c6be875bf91b18.svg","width":"0","height":"0"}},
     "TL":{"name":{"ru":"Air North","en":"Air North"},"country":"AU","logo":null},
     "TM":{"name":{"ru":"LAM","en":"LAM"},"country":"MZ","logo":{"file":"3126-6bbbd344fdf3b4441d769503eeb2f28e.gif","width":"100","height":"36"}},
     "TN":{"name":{"ru":"Air Tahiti Nui","en":"Air Tahiti Nui"},"country":"PF","logo":{"file":"5094-d1667e1e97f87cc2737338dae59e7475.png","width":"130","height":"30"}},
@@ -884,7 +884,7 @@
     "УЭ":{"name":{"ru":"ГУП МА Оренбург","en":"GUP MA Orenburg"},"country":"RU","logo":null},
     "ФЖ":{"name":{"ru":"Скай Бишкек","en":"Sky Bishkek"},"country":"KG","logo":null},
     "ФР":{"name":{"ru":"Центр-Юг","en":"Center-Yug"},"country":"RU","logo":null},
-    "Э4":{"name":{"ru":"Fly&Bus","en":"Fly&Bus"},"country":"RU","logo":{"file":"5874-aa62036df0ea0257430f2875eda9f25f.svg","width":"0","height":"0"}},
+    "Э4":{"name":{"ru":"Fly&Bus","en":"Fly&Bus"},"country":"RU","logo":{"file":"5881-5d841e46c63c84bef7bff8721cbe3850.svg","width":"0","height":"0"}},
     "ЭК":{"name":{"ru":"КрасАвиа","en":"KrasAvia"},"country":"RU","logo":{"file":"5589-10da7a967ed4b9fd8fd8451eeb116697.svg","width":"0","height":"0"}},
     "ЯП":{"name":{"ru":"Полярные авиалинии","en":"Polar Airlines"},"country":"RU","logo":null},
     "44":{"name":{"ru":"BlekingeFlyg","en":"BlekingeFlyg"},"country":"SE","logo":{"file":"5076-115e9fa0ef4f6fc480d264996dc443a1.jpg","width":"120","height":"14"}}
