@@ -39,6 +39,7 @@
     "SDZ":{"name":{"ru":"Шетлендские острова","en":"Shetland"},"country":"GB"},
     "SEL":{"name":{"ru":"Сеул","en":"Seoul"},"country":"KR"},
     "SHA":{"name":{"ru":"Шанхай","en":"Shanghai"},"country":"CN"},
+    "SIA":{"name":{"ru":"Сиань","en":"Xi'an"},"country":"CN"},
     "SPK":{"name":{"ru":"Саппоро","en":"Sapporo"},"country":"JP"},
     "STO":{"name":{"ru":"Стокгольм","en":"Stockholm"},"country":"SE"},
     "SZF":{"name":{"ru":"Самсун","en":"Samsun"},"country":"TR"},
