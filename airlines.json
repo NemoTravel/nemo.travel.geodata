@@ -93,6 +93,7 @@
     "6V":{"name":{"ru":"Марс РК","en":"Mars RK"},"country":"UA","logo":{"file":"2698-d7b21ed6a3db144123197f9ae3ded64b.jpeg","width":"105","height":"28"}},
     "6W":{"name":{"ru":"Саратовские авиалинии","en":"Saravia"},"country":"RU","logo":{"file":"5676-03408f4218f81e33b26b81197fa3b656.png","width":"231","height":"50"}},
     "6Y":{"name":{"ru":"Smartlynx","en":"Smartlynx"},"country":"LV","logo":{"file":"2749-fc558e2766d9f0bb41fca34ed1cb8dda.jpg","width":"186","height":"55"}},
+    "6Ю":{"name":{"ru":"Международный аэропорт Воронеж","en":"Voronezh International Airport"},"country":"RU","logo":null},
     "7A":{"name":{"ru":"Air Next","en":"Air Next"},"country":"JP","logo":{"file":"2973-69c0976618840f80ae7cb9ee257398fe.jpg","width":"280","height":"25"}},
     "7B":{"name":{"ru":"Атлант-Союз","en":"Atlant Soyuz"},"country":"RU","logo":{"file":"2665-800131b9c1c27b64306db8831869ae4c.jpg","width":"280","height":"53"}},
     "7C":{"name":{"ru":"Jeju Air","en":"Jeju Air"},"country":"KR","logo":null},

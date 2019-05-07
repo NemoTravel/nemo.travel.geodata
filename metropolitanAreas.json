@@ -14,6 +14,7 @@
     "DKR":{"name":{"ru":"Дакар","en":"Dakar"},"country":"SN"},
     "DTT":{"name":{"ru":"Детройт","en":"Detroit"},"country":"US"},
     "DXB":{"name":{"ru":"Дубай","en":"Dubai"},"country":"AE"},
+    "HOU":{"name":{"ru":"Хьюстон","en":"Houston"},"country":"US"},
     "IEV":{"name":{"ru":"Киев","en":"Kiev"},"country":"UA"},
     "IST":{"name":{"ru":"Стамбул","en":"Istanbul"},"country":"TR"},
     "IZM":{"name":{"ru":"Измир","en":"Izmir"},"country":"TR"},
