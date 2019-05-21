@@ -9176,6 +9176,7 @@
     "ZER":{"cityName":{"ru":"Zero Airport","en":"Zero Airport"},"area":null,"country":"IN","lat":27.5883,"lng":93.8281,"timezone":"Asia/Kolkata"},
     "ZFA":{"cityName":{"ru":"Faro Airport","en":"Faro Airport"},"area":null,"country":"CA","lat":62.2075,"lng":-133.37583,"timezone":"America/Whitehorse"},
     "ZFD":{"cityName":{"ru":"Фон-дю-Лак","en":"Fond Du Lac"},"area":null,"country":"CA","lat":59.3344,"lng":-107.182,"timezone":"America/Regina"},
+    "ZFJ":{"cityName":{"ru":"Ренн","en":"Rennes"},"airportName":{"ru":"Ж/Д вокзал","en":"Railway station"},"area":null,"country":"FR","lat":48.10343,"lng":-1.6723,"timezone":"Europe/Paris"},
     "ZFM":{"cityName":{"ru":"Форт-МакФерсон","en":"Fort McPherson"},"area":null,"country":"CA","lat":67.4075,"lng":-134.86056,"timezone":"America/Yellowknife"},
     "ZFN":{"cityName":{"ru":"Тулита","en":"Tulita"},"area":null,"country":"CA","lat":64.9095,"lng":-125.57124,"timezone":"America/Yellowknife"},
     "ZFQ":{"cityName":{"ru":"Бордо","en":"Bordeaux-Saint-Jean"},"airportName":{"ru":"Сен-Джин (Ж/Д вокзал)","en":"Railway station"},"area":null,"country":"FR","lat":44.8258,"lng":-0.55584,"timezone":"Europe/Paris"},
