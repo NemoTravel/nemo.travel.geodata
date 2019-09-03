@@ -40,6 +40,7 @@
     "3Y":{"name":{"ru":"Kartika Airlines","en":"Kartika Airlines"},"country":"ID","logo":{"file":"3079-ce8022094854656e981877b39b47ff38.jpg","width":"329","height":"114"}},
     "4B":{"name":{"ru":"Perimeter Airlines","en":"Perimeter Airlines"},"country":"CA","logo":{"file":"3145-9267d3eabda6937c2a8c598f445ae67c.jpg","width":"145","height":"44"}},
     "4C":{"name":{"ru":"Aires Colombia","en":"Aires Colombia"},"country":"CO","logo":null},
+    "4D":{"name":{"ru":"Air Sinai","en":"Air Sinai"},"country":"EG","logo":null},
     "4F":{"name":{"ru":"Aerovias DAP","en":"Aerovias DAP"},"country":"CL","logo":{"file":"4633-acb600cfc3cc47adc801f4b72f89e5ce.jpg","width":"120","height":"35"}},
     "4G":{"name":{"ru":"Газпромавиа","en":"Gazpromavia"},"country":"RU","logo":{"file":"3469-76d48d8564b9b040b6e3e763f61d2bc9.jpg","width":"170","height":"84"}},
     "4H":{"name":{"ru":"United Airways","en":"United Airways"},"country":"BD","logo":null},
