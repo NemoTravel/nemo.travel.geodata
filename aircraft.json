@@ -287,7 +287,6 @@
     "TU5":{"manufacturer":"Tupolev","model":"TU-154","name":{"en":"Tupolev TU-154","ru":"Туполев Ту-154"}},
     "VCV":{"manufacturer":"Vickers-Armstrongs","model":"Viscount","name":{"en":"Vickers Viscount","ru":"Викерс Вискаунт"}},
     "WWP":{"manufacturer":"Israel Aircraft Industries (IAI)","model":"1123/1124/1124A","name":{"en":"IAI Westwind","ru":"IAI Вествинд"}},
-    "XXX":{"name":{"en":"jj","ru":"jj"}},
     "YK2":{"manufacturer":"Yakovlev","model":"YAK-42","name":{"en":"Yakovlev YAK-42","ru":"Яковлев Як-42"}},
     "YK4":{"manufacturer":"Yakovlev","model":"YAK-40","name":{"en":"Yakovlev YAK-40","ru":"Яковлев Як-40"}},
     "YN2":{"manufacturer":"Harbin Aircraft","model":"Y-12","name":{"en":"Harbin Y-12","ru":"Харбин Y-12"}},
