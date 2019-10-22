@@ -347,7 +347,7 @@
     "ARH":{"cityName":{"ru":"Архангельск","en":"Arkhangelsk"},"area":null,"country":"RU","lat":64.59828,"lng":40.71276,"timezone":"Europe/Moscow"},
     "ARI":{"cityName":{"ru":"Арика","en":"Arica"},"airportName":{"ru":"Чакаллута","en":"Chacalluta"},"area":null,"country":"CL","lat":-18.34853,"lng":-70.33874,"timezone":"America/Santiago"},
     "ARJ":{"cityName":{"ru":"Arso Airport","en":"Arso Airport"},"area":null,"country":"ID","lat":-2.93333,"lng":140.78334,"timezone":"Asia/Jayapura"},
-    "ARK":{"cityName":{"ru":"Arusha Airport","en":"Arusha Airport"},"area":null,"country":"TZ","lat":-3.3676,"lng":36.6248,"timezone":"Africa/Dar_es_Salaam"},
+    "ARK":{"cityName":{"ru":"Аруша","en":"Arusha"},"area":null,"country":"TZ","lat":-3.3676,"lng":36.6248,"timezone":"Africa/Dar_es_Salaam"},
     "ARL":{"cityName":{"ru":"Arly Airport","en":"Arly Airport"},"area":null,"country":"BF","lat":11.597,"lng":1.483,"timezone":"Africa/Ouagadougou"},
     "ARM":{"cityName":{"ru":"Армидал","en":"Armidale"},"area":null,"country":"AU","lat":-30.5281,"lng":151.617,"timezone":"Australia/Sydney"},
     "ARN":{"cityName":{"ru":"Стокгольм","en":"Stockholm"},"airportName":{"ru":"Арланда","en":"Arlanda"},"area":"STO","country":"SE","lat":59.652,"lng":17.93132,"timezone":"Europe/Stockholm"},
