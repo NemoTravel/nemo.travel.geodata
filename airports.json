@@ -6070,7 +6070,7 @@
     "POM":{"cityName":{"ru":"Порт-Морсби","en":"Port Moresby"},"airportName":{"ru":"Джэксон-Филд","en":"Jackson Field"},"area":null,"country":"PG","lat":-9.44338,"lng":147.22005,"timezone":"Pacific/Port_Moresby"},
     "PON":{"cityName":{"ru":"Поптан","en":"Poptun"},"area":null,"country":"GT","lat":16.3258,"lng":-89.4161,"timezone":"America/Guatemala"},
     "POO":{"cityName":{"ru":"Покос-Де-Кальда","en":"Pocos De Caldas"},"area":null,"country":"BR","lat":-21.84301,"lng":-46.56792,"timezone":"America/Sao_Paulo"},
-    "POP":{"cityName":{"ru":"Пуэрто-Плата, Ла-Юнион","en":"Puerto Plata, La Union"},"area":null,"country":"DO","lat":19.7579,"lng":-70.57003,"timezone":"America/Santo_Domingo"},
+    "POP":{"cityName":{"ru":"Пуэрто-Плата","en":"Puerto Plata"},"airportName":{"ru":"Ла-Юнион","en":"La Union"},"area":null,"country":"DO","lat":19.7579,"lng":-70.57003,"timezone":"America/Santo_Domingo"},
     "POQ":{"cityName":{"ru":"Полк-Инлет","en":"Polk Inlet"},"area":null,"country":"US","timezone":"America/Juneau"},
     "POR":{"cityName":{"ru":"Пори","en":"Pori"},"area":null,"country":"FI","lat":61.46169,"lng":21.79998,"timezone":"Europe/Helsinki"},
     "POS":{"cityName":{"ru":"Порт-оф-Спейн","en":"Port of Spain"},"airportName":{"ru":"Пиарко","en":"Piarco"},"area":null,"country":"TT","lat":10.59537,"lng":-61.33724,"timezone":"America/Port_of_Spain"},
