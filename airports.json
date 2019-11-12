@@ -8721,6 +8721,7 @@
     "XYA":{"cityName":{"ru":"Яндина","en":"Yandina"},"area":null,"country":"SB","lat":-9.09303,"lng":159.21889,"timezone":"Pacific/Guadalcanal"},
     "XYD":{"cityName":{"ru":"Лион","en":"Lyon-Part-Dieu"},"airportName":{"ru":"Пар-Дьё (Ж/Д вокзал)","en":"Railway station"},"area":null,"country":"FR","lat":45.76064,"lng":4.85941,"timezone":"Europe/Paris"},
     "XYE":{"cityName":{"ru":"Ye Airport","en":"Ye Airport"},"area":null,"country":"MM","lat":15.30041,"lng":97.86398,"timezone":"Asia/Rangoon"},
+    "XYG":{"cityName":{"ru":"Прага","en":"Prague"},"airportName":{"ru":"Главный (Ж/Д вокзал)","en":"Main (Railway station)"},"area":null,"country":"CZ","lat":50.08331,"lng":14.43578,"timezone":"Europe/Prague"},
     "XYR":{"cityName":{"ru":"Yellow River","en":"Yellow River"},"area":null,"country":"PG","lat":-3.88333,"lng":141.783,"timezone":"Pacific/Port_Moresby"},
     "XZA":{"cityName":{"ru":"Zabre Airport","en":"Zabre Airport"},"area":null,"country":"BF","lat":11.167,"lng":-0.617,"timezone":"Africa/Ouagadougou"},
     "XZI":{"cityName":{"ru":"Лоран","en":"Lorraine"},"airportName":{"ru":"Ж/Д вокзал","en":"Railway station"},"area":null,"country":"FR","lat":48.94776,"lng":6.16917,"timezone":"Europe/Paris"},
