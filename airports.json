@@ -6632,7 +6632,7 @@
     "RIW":{"cityName":{"ru":"Ривертон","en":"Riverton"},"area":null,"country":"US","lat":43.06385,"lng":-108.46011,"timezone":"America/Denver"},
     "RIX":{"cityName":{"ru":"Рига","en":"Riga"},"area":null,"country":"LV","lat":56.92361,"lng":23.97111,"timezone":"Europe/Riga"},
     "RIY":{"cityName":{"ru":"Рийян","en":"Riyan"},"area":null,"country":"YE","lat":14.66264,"lng":49.37503,"timezone":"Asia/Aden"},
-    "RIZ":{"cityName":{"ru":"Жичжао","en":"Rizhao"},"area":null,"country":"CN","lat":35.39619,"lng":119.34109,"timezone":"Asia/Shanghai"},
+    "RIZ":{"cityName":{"ru":"Жичжао, Шаньдун","en":"Rizhao Shanzihe"},"area":null,"country":"CN","lat":35.39619,"lng":119.34109,"timezone":"Asia/Shanghai"},
     "RJA":{"cityName":{"ru":"Раджахмундри","en":"Rajahmundry"},"area":null,"country":"IN","lat":17.1104,"lng":81.8182,"timezone":"Asia/Kolkata"},
     "RJB":{"cityName":{"ru":"Раджбирадж","en":"Rajbiraj"},"area":null,"country":"NP","lat":26.517,"lng":86.75,"timezone":"Asia/Kathmandu"},
     "RJH":{"cityName":{"ru":"Раджшахи","en":"Rajshahi"},"area":null,"country":"BD","lat":24.43722,"lng":88.61651,"timezone":"Asia/Dhaka"},
