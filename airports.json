@@ -9307,7 +9307,6 @@
     "БОЧ":{"cityName":{"ru":"Богучаны","en":"Boguchany"},"area":null,"country":"RU","lat":58.38037,"lng":97.46826,"timezone":"Asia/Krasnoyarsk"},
     "БРК":{"cityName":{"ru":"Борисоглебск","en":"Borisoglebsk"},"airportName":{"ru":"Автовокзал","en":"Bus station"},"area":null,"country":"RU","timezone":"Europe/Moscow"},
     "ВГЖ":{"cityName":{"ru":"Вологда (Остановочный комплекс)","en":"Vologda"},"airportName":{"ru":"Автовокзал","en":"Bus station"},"area":null,"country":"RU","timezone":"Europe/Moscow"},
-    "ВЖЭ":{"cityName":{"ru":"Воронеж Экскурсионный","en":"Voronezh Excursion"},"area":null,"country":"RU","timezone":"Europe/Moscow"},
     "ВЛМ":{"cityName":{"ru":"Владимир","en":"Vladimir"},"airportName":{"ru":"Семязино","en":"Semyazino"},"area":null,"country":"RU","lat":56.12384,"lng":40.31184,"timezone":"Europe/Moscow"},
     "ВРЯ":{"cityName":{"ru":"Ванавара","en":"Vanavara"},"area":null,"country":"RU","timezone":"Asia/Krasnoyarsk"},
     "ВСХ":{"cityName":{"ru":"Восяхово","en":"Vasyakhovo"},"area":null,"country":"RU","timezone":"Asia/Yekaterinburg"},
