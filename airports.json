@@ -7306,7 +7306,7 @@
     "STI":{"cityName":{"ru":"Сантьяго Муниципал","en":"Santiago Municipal"},"area":null,"country":"DO","lat":19.40609,"lng":-70.60469,"timezone":"America/Santo_Domingo"},
     "STJ":{"cityName":{"ru":"Сент-Джозеф, Розекранс","en":"St Josep, Rosecrans"},"area":null,"country":"US","lat":39.77034,"lng":-94.90455,"timezone":"America/Chicago"},
     "STK":{"cityName":{"ru":"Кроссон-Филд, Стерлинг","en":"Crosson Field, Cterling"},"area":null,"country":"US","lat":40.61506,"lng":-103.26627,"timezone":"America/Denver"},
-    "STL":{"cityName":{"ru":"Сен-Луи","en":"Lambert-St. Louis International Airport"},"area":null,"country":"US","lat":38.74321,"lng":-90.36591,"timezone":"America/Chicago"},
+    "STL":{"cityName":{"ru":"Сент-Луис","en":"Lambert-St. Louis International Airport"},"area":null,"country":"US","lat":38.74321,"lng":-90.36591,"timezone":"America/Chicago"},
     "STM":{"cityName":{"ru":"Сантарем","en":"Santarem"},"airportName":{"ru":"Эдуардо Гомес","en":"Eduardo Gomes"},"area":null,"country":"BR","lat":-2.42243,"lng":-54.79279,"timezone":"America/Manaus"},
     "STN":{"cityName":{"ru":"Лондон","en":"London"},"airportName":{"ru":"Стенстед","en":"Stansted"},"area":"LON","country":"GB","lat":51.885,"lng":0.235,"timezone":"Europe/London"},
     "STP":{"cityName":{"ru":"Сен-Пауль Даунтаун","en":"St. Paul Downtown"},"area":null,"country":"US","timezone":"America/Chicago"},
