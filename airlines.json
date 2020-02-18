@@ -854,7 +854,7 @@
     "ZK":{"name":{"ru":"Great Lakes Airlines","en":"Great Lakes Airlines"},"country":"US","logo":{"file":"5680-e3a52943a1427389343be1932e733d50.png","width":"300","height":"150"}},
     "ZL":{"name":{"ru":"Regional Express Airlines","en":"Regional Express Airlines"},"country":"AU","logo":{"file":"3720-85a66693e311f3f0e3d79fe9bdec43c6.jpg","width":"280","height":"105"}},
     "ZM":{"name":{"ru":"Пегасус Азия","en":"Pegasus Asia"},"country":"RU","logo":{"file":"3540-3e130b60b9da450c7cc50876a154b108.png","width":"117","height":"67"}},
-    "ZO":{"name":{"ru":"Zagros Airlines","en":"Zagros Airlines"},"country":"IR","logo":null},
+    "ZO":{"name":{"ru":"Zagros Airlines","en":"Zagros Airlines"},"country":"IR","logo":{"file":"5938-fff08b0132a4bcca0031d48a5f49603e.svg","width":"0","height":"0"}},
     "ZP":{"name":{"ru":"Silk Way Airlines","en":"Silk Way Airlines"},"country":"AZ","logo":null},
     "ZR":{"name":{"ru":"Авиакон Цитотранс","en":"Aviacon Zitotrans"},"country":"RU","logo":null},
     "ZS":{"name":{"ru":"Sama","en":"Sama"},"country":"SA","logo":{"file":"3690-f2c727a2173e42baa5fa6a6f8a6922b9.jpg","width":"190","height":"64"}},
