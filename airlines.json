@@ -577,7 +577,7 @@
     "PK":{"name":{"ru":"Pakistan Air","en":"Pakistan Air"},"country":"PK","logo":{"file":"3490-cb9fbbad680f82540332d391a658e843.png","width":"130","height":"30"}},
     "PL":{"name":{"ru":"Southern Air Charter","en":"Southern Air Charter"},"country":"BS","logo":null},
     "PN":{"name":{"ru":"China West Air","en":"China West Air"},"country":"CN","logo":null},
-    "PQ":{"name":{"ru":"SkyUp Airlines","en":"SkyUp Airlines"},"country":"UA","logo":null},
+    "PQ":{"name":{"ru":"SkyUp Airlines","en":"SkyUp Airlines"},"country":"UA","logo":{"file":"5947-7041ed422ac402bb271b5dffcc7d844d.png","width":"343","height":"73"}},
     "PR":{"name":{"ru":"Philippine Air","en":"Philippine Air"},"country":"PH","logo":{"file":"4769-073787dcae51ecb60c2bcf90544c90d8.gif","width":"120","height":"17"}},
     "PS":{"name":{"ru":"Ukraine International","en":"Ukraine International Airlines"},"country":"UA","logo":{"file":"3630-30ed6adde50560dfeacaac28823ccef3.svg","width":"0","height":"0"}},
     "PT":{"name":{"ru":"Passaredo Linhas Aereos","en":"Passaredo Linhas Aereos"},"country":"BR","logo":null},
