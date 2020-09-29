@@ -289,7 +289,7 @@
     "EW":{"name":{"ru":"Eurowings","en":"Eurowings"},"country":"DE","logo":{"file":"5584-14b4454d3d6bfc6a00309d8de76845e7.png","width":"166","height":"42"}},
     "EY":{"name":{"ru":"Etihad Airways","en":"Etihad Airways"},"country":"AE","logo":{"file":"5722-d80e6093d1e0fb4583f17df674d0763a.svg","width":"0","height":"0"}},
     "EZ":{"name":{"ru":"Sun-Air of Scandinavia","en":"Sun-Air of Scandinavia"},"country":"DK","logo":{"file":"2755-5f1a3b2f388df819d7ba01650521becf.jpg","width":"80","height":"25"}},
-    "F7":{"name":{"ru":"Darwin Airline","en":"Darwin Airline"},"country":"CH","logo":{"file":"3686-cf53c1be097801507361bcea7bb440f3.jpg","width":"235","height":"90"}},
+    "F7":{"name":{"ru":"Ай Флай","en":"I fly"},"country":"RU","logo":{"file":"5951-1ed0e18147fc142877dba3cbeacda209.png","width":"138","height":"58"}},
     "F8":{"name":{"ru":"Flair Airlines","en":"Flair Airlines"},"country":"CA","logo":{"file":"5716-8aba4b0713ec7ab2c836012360d97aea.svg","width":"0","height":"0"}},
     "F9":{"name":{"ru":"Frontier Airlines","en":"Frontier Airlines"},"country":"US","logo":{"file":"3692-f66dcc59b66cc28a7997113a5b33fa22.jpg","width":"244","height":"52"}},
     "FA":{"name":{"ru":"Safair","en":"Safair"},"country":"ZA","logo":{"file":"3548-f7961ace779109071b0337eab0433fb6.gif","width":"100","height":"39"}},
@@ -869,6 +869,7 @@
     "БА":{"name":{"ru":"Авиакомпания Былина","en":"Aviakomapania Bylina"},"country":"RU","logo":null},
     "БЮ":{"name":{"ru":"Бурятские авиалинии","en":"Buryat airlines"},"country":"RU","logo":{"file":"5582-7ca3e78cd270e1036f0e27845d2ca192.jpg","width":"150","height":"124"}},
     "ВГ":{"name":{"ru":"Вологодское авиационное предприятие","en":"Vologda Air Enterprise"},"country":"RU","logo":{"file":"5567-8cc164010fae10dedf99c582a7011d73.jpg","width":"259","height":"74"}},
+    "ВЦ":{"name":{"ru":"Авиакомпания Сириус-Аэро","en":"Sirius-Aero"},"country":"RU","logo":null},
     "ГК":{"name":{"ru":"Производственное объединение «Космос»","en":"Kosmos Air"},"country":"RU","logo":null},
     "ГЭ":{"name":{"ru":"FLYBUSTEAM","en":"FLYBUSTEAM"},"country":"RU","logo":{"file":"5930-90a5c6ebae7cafbd89f694e4148eda6b.jpg","width":"170","height":"150"}},
     "ДЕ":{"name":{"ru":"Камчатское авиационное предприятие","en":"Petropavlovsk-Kamchatski Airline"},"country":"RU","logo":{"file":"5870-b6e5e56ef485ca31cc6e24a3dbd24509.png","width":"134","height":"114"}},
@@ -889,8 +890,10 @@
     "УЭ":{"name":{"ru":"ГУП МА Оренбург","en":"GUP MA Orenburg"},"country":"RU","logo":null},
     "ФЖ":{"name":{"ru":"Скай Бишкек","en":"Sky Bishkek"},"country":"KG","logo":null},
     "ФР":{"name":{"ru":"Центр-Юг","en":"Center-Yug"},"country":"RU","logo":null},
+    "Э2":{"name":{"ru":"Единая Транспортная Дирекция","en":"ETD"},"country":"RU","logo":{"file":"5950-702bd16e700bb87e13fc78b1b89a0d91.png","width":"960","height":"332"}},
     "Э4":{"name":{"ru":"Fly&Bus","en":"Fly&Bus"},"country":"RU","logo":{"file":"5881-5d841e46c63c84bef7bff8721cbe3850.svg","width":"0","height":"0"}},
     "ЭК":{"name":{"ru":"КрасАвиа","en":"KrasAvia"},"country":"RU","logo":{"file":"5589-10da7a967ed4b9fd8fd8451eeb116697.svg","width":"0","height":"0"}},
+    "ЮЭ":{"name":{"ru":"ЗАО ЮТэйр","en":"Utair"},"country":"RU","logo":null},
     "ЯП":{"name":{"ru":"Полярные авиалинии","en":"Polar Airlines"},"country":"RU","logo":null},
     "44":{"name":{"ru":"BlekingeFlyg","en":"BlekingeFlyg"},"country":"SE","logo":{"file":"5076-115e9fa0ef4f6fc480d264996dc443a1.jpg","width":"120","height":"14"}}
 }
