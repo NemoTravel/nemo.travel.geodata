@@ -7371,7 +7371,7 @@
     "SVU":{"cityName":{"ru":"Савусаву","en":"Savusavu"},"area":null,"country":"FJ","lat":-16.80323,"lng":179.34099,"timezone":"Pacific/Fiji"},
     "SVV":{"cityName":{"ru":"Сан-Сальвадор","en":"San Salvador"},"area":null,"country":"VE","lat":7,"lng":-62,"timezone":"America/Caracas"},
     "SVW":{"cityName":{"ru":"Sparrevohn LRRS Airport","en":"Sparrevohn LRRS Airport"},"area":null,"country":"US","lat":61.09722,"lng":-155.57417,"timezone":"America/Anchorage"},
-    "SVX":{"cityName":{"ru":"Екатеринбург","en":"Yekaterinburg"},"area":null,"country":"RU","lat":56.74311,"lng":60.80273,"timezone":"Asia/Yekaterinburg"},
+    "SVX":{"cityName":{"ru":"Екатеринбург","en":"Yekaterinburg"},"airportName":{"ru":"Кольцово","en":"Koltsovo"},"area":null,"country":"RU","lat":56.74311,"lng":60.80273,"timezone":"Asia/Yekaterinburg"},
     "SVY":{"cityName":{"ru":"Саво","en":"Savo"},"area":null,"country":"SB","lat":-9.16667,"lng":159.833,"timezone":"Pacific/Guadalcanal"},
     "SVZ":{"cityName":{"ru":"Сан-Антонио","en":"San Antonio"},"area":null,"country":"VE","lat":7.84083,"lng":-72.43974,"timezone":"America/Caracas"},
     "SWA":{"cityName":{"ru":"Шанту","en":"Shantou"},"area":null,"country":"CN","lat":23.55297,"lng":116.50589,"timezone":"Asia/Shanghai"},
