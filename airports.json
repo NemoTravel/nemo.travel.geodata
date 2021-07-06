@@ -6599,7 +6599,7 @@
     "RGE":{"cityName":{"ru":"Поргера","en":"Porgera"},"area":null,"country":"PG","timezone":"Pacific/Port_Moresby"},
     "RGH":{"cityName":{"ru":"Балургат","en":"Balurghat"},"area":null,"country":"IN","lat":25.2617,"lng":88.7956,"timezone":"Asia/Kolkata"},
     "RGI":{"cityName":{"ru":"Ранджироа","en":"Rangiroa"},"area":null,"country":"PF","lat":-14.95428,"lng":-147.6608,"timezone":"Pacific/Tahiti"},
-    "RGK":{"cityName":{"ru":"Горно-Алтайск","en":"Gorno-Altaysk"},"area":null,"country":"RU","lat":51.9692,"lng":85.8364,"timezone":"Asia/Omsk"},
+    "RGK":{"cityName":{"ru":"Горно-Алтайск","en":"Gorno-Altaysk"},"area":null,"country":"RU","lat":51.9692,"lng":85.8364,"timezone":"Asia/Krasnoyarsk"},
     "RGL":{"cityName":{"ru":"Рио-Галлегос","en":"Rio Gallegos"},"area":null,"country":"AR","lat":-51.60887,"lng":-69.31264,"timezone":"America/Argentina/Rio_Gallegos"},
     "RGN":{"cityName":{"ru":"Янгон","en":"Yangon"},"area":null,"country":"MM","lat":16.90731,"lng":96.13322,"timezone":"Asia/Rangoon"},
     "RGO":{"cityName":{"ru":"Chongjin Airport","en":"Chongjin Airport"},"area":null,"country":"KP","lat":41.80331,"lng":129.85402,"timezone":"Asia/Pyongyang"},
