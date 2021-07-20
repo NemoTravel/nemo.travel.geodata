@@ -391,7 +391,7 @@
     "IN":{"name":{"ru":"NAM Air","en":"NAM Air"},"country":"ID","logo":null},
     "IO":{"name":{"ru":"ИрАэро","en":"IrAero"},"country":"RU","logo":{"file":"5816-2ee3f2b2b6883db531f2de02704e6ce8.svg","width":"0","height":"0"}},
     "IP":{"name":{"ru":"Atyrau Aue Zholy","en":"Atyrau Aue Zholy"},"country":"KZ","logo":{"file":"2709-493e616c4f2455a0e9abda68b529ea61.jpeg","width":"82","height":"82"}},
-    "IQ":{"name":{"ru":"Qazaq Air","en":"Qazaq Air"},"country":"DE","logo":{"file":"5805-57a5cfb89ab77b4a3c11ff3a5c7ff427.png","width":"284","height":"105"}},
+    "IQ":{"name":{"ru":"Qazaq Air","en":"Qazaq Air"},"country":"KZ","logo":{"file":"5805-57a5cfb89ab77b4a3c11ff3a5c7ff427.png","width":"284","height":"105"}},
     "IR":{"name":{"ru":"Iran Air","en":"Iran Air"},"country":"IR","logo":{"file":"2930-96e62d75dc7a8759a99065bd4b149b49.gif","width":"100","height":"40"}},
     "IS":{"name":{"ru":"Island Airlines","en":"Island Airlines"},"country":"US","logo":{"file":"3188-69f90b3d397812068b8b613e36b259b6.jpg","width":"280","height":"44"}},
     "IT":{"name":{"ru":"Tigerair Taiwan","en":"Tigerair Taiwan"},"country":"TW","logo":{"file":"5765-dbe8d40796483373e3aef5390787593e.png","width":"459","height":"181"}},
