@@ -1743,7 +1743,7 @@
     "DIY":{"cityName":{"ru":"Диярбакир","en":"Diyarbakir"},"area":null,"country":"TR","lat":37.8939,"lng":40.20102,"timezone":"Europe/Istanbul"},
     "DJA":{"cityName":{"ru":"Djougou Airport","en":"Djougou Airport"},"area":null,"country":"BJ","lat":9.69171,"lng":1.63894,"timezone":"Africa/Porto-Novo"},
     "DJB":{"cityName":{"ru":"Джамби","en":"Jambi"},"airportName":{"ru":"Султан Таха Сярифадн","en":"Sultan Taha Syarifudn"},"area":null,"country":"ID","lat":-1.63802,"lng":103.64438,"timezone":"Asia/Jakarta"},
-    "DJE":{"cityName":{"ru":"Джерба, Мелита","en":"Djerba, Melita"},"area":null,"country":"TN","lat":33.87334,"lng":10.77553,"timezone":"Africa/Tunis"},
+    "DJE":{"cityName":{"ru":"Меллита","en":"Mellita"},"airportName":{"ru":"Джерба","en":"Djerba"},"area":null,"country":"TN","lat":33.87334,"lng":10.77553,"timezone":"Africa/Tunis"},
     "DJG":{"cityName":{"ru":"Джанет, Инедбиренн","en":"Djanet, Inedbirenne"},"area":null,"country":"DZ","lat":24.29277,"lng":9.45244,"timezone":"Africa/Algiers"},
     "DJJ":{"cityName":{"ru":"Джайпура","en":"Jaypura"},"airportName":{"ru":"Сентани","en":"Sentani"},"area":null,"country":"ID","lat":-2.57695,"lng":140.51637,"timezone":"Asia/Jayapura"},
     "DJM":{"cityName":{"ru":"Djambala Airport","en":"Djambala Airport"},"area":null,"country":"CG","lat":-2.53333,"lng":14.76667,"timezone":"Africa/Brazzaville"},
