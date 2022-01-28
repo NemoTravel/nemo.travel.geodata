@@ -6201,7 +6201,7 @@
     "PUG":{"cityName":{"ru":"Порт-Августа","en":"Port Augusta"},"area":null,"country":"AU","lat":-32.5069,"lng":137.717,"timezone":"Australia/Adelaide"},
     "PUH":{"cityName":{"ru":"Почутла","en":"Pochutla"},"area":null,"country":"MX","timezone":"America/Mexico_City"},
     "PUI":{"cityName":{"ru":"Пурени","en":"Pureni"},"area":null,"country":"PG","timezone":"Pacific/Port_Moresby"},
-    "PUJ":{"cityName":{"ru":"Пунта-Кана","en":"Punta Cana"},"airportName":{"ru":"Пуэрто-Плата","en":null},"area":null,"country":"DO","lat":18.56737,"lng":-68.36343,"timezone":"America/Santo_Domingo"},
+    "PUJ":{"cityName":{"ru":"Пунта-Кана","en":"Punta Cana"},"area":null,"country":"DO","lat":18.56737,"lng":-68.36343,"timezone":"America/Santo_Domingo"},
     "PUK":{"cityName":{"ru":"Пукаруа","en":"Pukarua"},"area":null,"country":"PF","lat":-18.2956,"lng":-137.017,"timezone":"Pacific/Tahiti"},
     "PUL":{"cityName":{"ru":"Поулсбо","en":"Poulsbo"},"area":null,"country":"US","timezone":"America/Los_Angeles"},
     "PUM":{"cityName":{"ru":"Помала","en":"Pomala"},"area":null,"country":"ID","lat":-4.1811,"lng":121.6134,"timezone":"Asia/Makassar"},
