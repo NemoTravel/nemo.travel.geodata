@@ -5297,7 +5297,7 @@
     "NLE":{"cityName":{"ru":"Нил","en":"Niles"},"airportName":{"ru":"Джерри Тайлер","en":"Jerry Tyler"},"area":null,"country":"US","timezone":"America/New_York"},
     "NLF":{"cityName":{"ru":"Остров Дарнлей","en":"Darnley Island"},"area":null,"country":"AU","lat":-9.57993,"lng":143.78061,"timezone":"Pacific/Port_Moresby"},
     "NLG":{"cityName":{"ru":"Нельсон-Лагун","en":"Nelson Lagoon"},"area":null,"country":"US","lat":56.00796,"lng":-161.16755,"timezone":"America/Anchorage"},
-    "NLI":{"cityName":{"ru":"Николаевск-на-Амуре","en":"Nikolayevsk-on-Amur Airport"},"area":null,"country":"RU","timezone":"Africa/Abidjan"},
+    "NLI":{"cityName":{"ru":"Николаевск-на-Амуре","en":"Nikolayevsk-on-Amur Airport"},"area":null,"country":"RU","timezone":"Asia/Vladivostok"},
     "NLK":{"cityName":{"ru":"Остров Норфолк","en":"Norfolk Island"},"area":null,"country":"NF","lat":-29.04162,"lng":167.93874,"timezone":"Pacific/Norfolk"},
     "NLL":{"cityName":{"ru":"Наллагин","en":"Nullagine"},"area":null,"country":"AU","lat":-21.9133,"lng":120.198,"timezone":"Australia/Perth"},
     "NLN":{"cityName":{"ru":"Kneeland Airport","en":"Kneeland Airport"},"area":null,"country":"US","lat":40.72023,"lng":-123.92751,"timezone":"America/Los_Angeles"},
