@@ -9326,7 +9326,7 @@
     "ВГЖ":{"cityName":{"ru":"Вологда (Остановочный комплекс)","en":"Vologda"},"airportName":{"ru":"Автовокзал","en":"Bus station"},"area":null,"country":"RU","timezone":"Europe/Moscow"},
     "ВЕЗ":{"cityName":{"ru":"Верхняя Золотица","en":"Verkhnyaya Zolotitsa"},"area":null,"country":"RU","timezone":"Europe/Moscow"},
     "ВЕТ":{"cityName":{"ru":"Верхняя Тойма","en":"Verkhnyaya Toyma"},"area":null,"country":"RU","timezone":"Europe/Moscow"},
-    "ВИЖ":{"cityName":{"ru":"Вижас","en":"Vizhas"},"airportName":{"ru":"Автовокзал","en":"Bus station"},"area":null,"country":"RU","timezone":"Europe/Moscow"},
+    "ВИЖ":{"cityName":{"ru":"Вижас","en":"Vizhas"},"area":null,"country":"RU","timezone":"Europe/Moscow"},
     "ВЛМ":{"cityName":{"ru":"Владимир","en":"Vladimir"},"airportName":{"ru":"Семязино","en":"Semyazino"},"area":null,"country":"RU","lat":56.12384,"lng":40.31184,"timezone":"Europe/Moscow"},
     "ВОЖ":{"cityName":{"ru":"Вожгора","en":"Vozhgora"},"area":null,"country":"RU","lat":64.53901,"lng":48.48342,"timezone":"Europe/Moscow"},
     "ВРЯ":{"cityName":{"ru":"Ванавара","en":"Vanavara"},"area":null,"country":"RU","timezone":"Asia/Krasnoyarsk"},
