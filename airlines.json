@@ -460,6 +460,7 @@
     "KY":{"name":{"ru":"Air Sao Tome e Principe","en":"Air Sao Tome e Principe"},"country":"ST","logo":null},
     "L6":{"name":{"ru":"TAM Air","en":"TAM Air"},"country":"GE","logo":null},
     "L7":{"name":{"ru":"Lugansk Airlines","en":"Lugansk Airlines"},"country":"UA","logo":{"file":"2696-67dd737c71b9ce7779de0f0e1d64ebe0.jpeg","width":"124","height":"20"}},
+    "L9":{"name":{"ru":"Lumiwings","en":"Lumiwings"},"country":"GR","logo":{"file":"6032-84f84a9e9bc555885add767965821b10.svg","width":"0","height":"0"}},
     "LA":{"name":{"ru":"LATAM","en":"LATAM Airlines Group"},"country":"CL","logo":{"file":"3138-4aea49b6e58e30109a08f13fb13951d6.png","width":"290","height":"100"}},
     "LB":{"name":{"ru":"Bul Air","en":"Bul Air"},"country":"BG","logo":{"file":"5791-81f501a8550e54d467f954acae8040b5.png","width":"726","height":"330"}},
     "LC":{"name":{"ru":"Equatorial Congo Airlines","en":"Equatorial Congo Airlines"},"country":"CD","logo":null},
